@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width= device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h3>Danh sách Môn học</h3>
+    <table border="1" cellspacing="0" cellpadding="5"
+        <str>
+            <th>STT</th>
+            <th>Tên môn</th>
+            <th> Số TC</th>
+        </str>
+        <tr>
+            <td>1</td>
+            <td>Cơ sở toán trong CNTT</td>
+            <td aline="center">4</td>
+        </tr>
+    </table>
+</body>
+</html>
